@@ -1,23 +1,16 @@
 # ClassicModels Sales Analysis
 
-This project analyzes the ClassicModels sales database to uncover revenue trends, customer purchasing behavior, product performance, and market opportunities. SQL was used to perform business analysis on relational data, while Power BI and DAX were used to build an interactive dashboard for KPI tracking and executive reporting.
+An end-to-end Sales Analytics project that transforms transactional sales data into actionable business insights using **SQL, MySQL, Power BI, and DAX**. 
+The project uncovers revenue trends, customer purchasing patterns, product performance, and market opportunities by combining SQL-driven analysis with interactive business intelligence reporting.
 
 ## Core Skills
 
-**SQL • MySQL • Power BI • DAX • Data Analysis • Business Intelligence • Dashboard Design • Data Visualization • KPI Development**
+**SQL • Power BI • DAX • MySQL • Data Analysis • Business Intelligence • Dashboard Design • Data Visualization • KPI Development**
 
-## Business Questions Solved
+## Project Highlights
 
-- Which products generate the highest revenue?
-- Who are the most valuable customers?
-- Which countries contribute the most to overall sales?
-- How does revenue change over time?
-- Which product lines drive the business?
-
-## What I Built
-
-- Performed business analysis on a relational sales database containing customers, orders, order details, products, payments, employees, and offices.
-- Wrote SQL queries using **Joins, Aggregate Functions, Subqueries, CTEs, CASE Statements, and Window Functions** to answer real business questions.
-- Developed reusable **DAX measures** to calculate KPIs such as Revenue, Orders, Customers, Products, and Average Order Value (AOV).
-- Designed an interactive **Power BI dashboard** featuring KPI cards, slicers, trend analysis, and dynamic visualizations to make business insights easy to explore.
-- Combined SQL analysis with Power BI reporting to deliver a complete end-to-end analytics workflow.
+- Analyzed a relational sales database consisting of customers, orders, products, payments, and offices to understand overall business performance.
+- Solved key business questions using **Joins, Aggregate Functions, Subqueries, CTEs, CASE Statements, and Window Functions** to uncover revenue drivers and performance trends.
+- Developed reusable **DAX measures** to calculate core KPIs, including Revenue, Orders, Customers, Products, and Average Order Value (AOV).
+- Built an interactive **Power BI dashboard** featuring KPI cards, dynamic visualizations, slicers, and cross-filtering for intuitive business reporting.
+- Delivered a complete analytics workflow by integrating SQL-based data analysis with Power BI dashboards, enabling stakeholders to monitor performance and make data-driven decisions.
